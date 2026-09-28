@@ -1,0 +1,12 @@
+# runtime files created by the program
+*.dat
+
+# build output
+bin/
+obj/
+*.exe
+*.o
+
+# Code::Blocks local files
+*.layout
+*.depend
